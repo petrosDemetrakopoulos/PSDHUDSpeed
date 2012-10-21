@@ -11,7 +11,7 @@ First of all, you must import PSDHUDSpeed at the .h file of your class. You can 
 ``` objc
 #import "PSDHUDSpeed.h"
 ```
-In order to initialize PSDQuizController, you must add the following line.
+In order to initialize PSDHUDSpeed, you must add the following line.
 ```objc
 PSDHUDSpeed *myHUDSpeed = [[PSDHUDSpeed alloc]initWithSpeedColor:textColorOfTheSpeed AndFontSize:fontSizeOfSpeed AndSpeedUnit:aSpeedUnit];
 ```
